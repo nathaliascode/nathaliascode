@@ -1,12 +1,12 @@
 # Hi there, I'm Nathalia 👋
 
-### 💫 Sobre mí
-Soy **Desarrolladora Full Stack** apasionada por crear soluciones digitales que transforman negocios. Mi especialidad es el ecosistema **Odoo**, donde diseño y desarrollo módulos personalizados compatibles con **todas sus versiones (desde v12 hasta v17+)**, asegurando escalabilidad y eficiencia en cada implementación.
+### 💫 About Me
+I am a **Full Stack Developer** passionate about building digital solutions that transform businesses. My core expertise lies in the **Odoo** ecosystem, where I design and develop custom modules compatible with **all versions (from v12 to v17+)**, ensuring scalability and efficiency in every implementation.
 
-- 🚀 **Odoo Expert:** Especialista en el desarrollo, migración y arquitectura de módulos (Community & Enterprise).
-- 🛠️ **Full Stack Dev:** Dominio avanzado de **Python, C#/.NET y React** para aplicaciones de alto rendimiento.
-- 🌐 **Infraestructura & DevOps:** Implementación y despliegue ágil utilizando **Docker, Linux y Cloudflare**.
-- 📈 **Enfoque:** Automatización de procesos, pasarelas de pago y sistemas e-commerce optimizados.
+- 🚀 **Odoo Expert:** Specialist in module development, migration, and architecture (both Community & Enterprise).
+- 🛠️ **Full Stack Dev:** Advanced proficiency in **Python, C#/.NET, and React** for high-performance applications.
+- 🌐 **Infrastructure & DevOps:** Agile deployment and optimization using **Docker, Linux, and Cloudflare**.
+- 📈 **Focus:** Process automation, payment gateway integrations, and optimized e-commerce systems.
 
 ---
 
@@ -40,7 +40,6 @@ Soy **Desarrolladora Full Stack** apasionada por crear soluciones digitales que 
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&color=BBDEFB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=B2EBF2" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=FFCCBC" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&color=FFEBEE" />
 </p>
 
 #### ☁️ Infrastructure & Tools
@@ -50,16 +49,6 @@ Soy **Desarrolladora Full Stack** apasionada por crear soluciones digitales que 
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&color=FFE0B2" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=DCEDC8" />
 </p>
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nathaliascode&show_icons=true&theme=pastel&hide_border=true" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliascode&layout=compact&theme=pastel&hide_border=true" alt="Top Langs" />
-</p>
-
----
 
 ### 🤝 Connect with me
 <p align="left">
