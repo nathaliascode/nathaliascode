@@ -1,12 +1,13 @@
 <div align="center">
 
 # Hi, I'm Nathalia 👋
-### Full Stack Developer · Odoo Specialist · Santa Cruz, Bolivia
+### Full Stack Developer · Odoo Specialist
 
-Full Stack Developer especializada en el ecosistema Odoo (v12–v17+).
-Custom modules, integraciones de pago, e-commerce y automatización de procesos.
+🇪🇸 Full Stack Developer especializada en el ecosistema Odoo (v15–v17+). Custom modules, integraciones de pago, e-commerce y automatización de procesos.
 
-🇬🇧 *Specialized in the Odoo ecosystem (v12–v17+). Custom modules, payment integrations, e-commerce, and process automation.*
+🇬🇧 Full Stack Developer specialized in the Odoo ecosystem (v15–v17+). Custom modules, payment integrations, e-commerce, and process automation.
+
+🇩🇪 Full Stack Entwicklerin spezialisiert auf das Odoo-Ökosystem (v15–v17+). Individuelle Module, Zahlungsintegrationen, E-Commerce und Prozessautomatisierung.
 
 <br/>
 
