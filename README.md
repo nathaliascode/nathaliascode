@@ -1,61 +1,73 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:875A7B,100:512BD4&height=220&section=header&text=Nathalia&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20·%20Odoo%20Specialist&descSize=20&descAlignY=58" />
+
 <div align="center">
 
-# Hi, I'm Nathalia 👋
-### Full Stack Developer · Odoo Specialist
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=875A7B&center=true&vCenter=true&width=650&lines=3+años+desarrollando+software;Custom+modules+y+migraciones+en+Odoo+v15+→+v19;Integraciones+de+pago,+APIs+y+otros+sistemas;Aplicaciones+con+Python,+C%23+y+.NET;E-commerce+y+automatización+de+procesos" />
 
-🇪🇸 Full Stack Developer especializada en el ecosistema Odoo (v15–v17+). Custom modules, integraciones de pago, e-commerce y automatización de procesos.
+<br/><br/>
 
-🇬🇧 Full Stack Developer specialized in the Odoo ecosystem (v15–v17+). Custom modules, payment integrations, e-commerce, and process automation.
-
-🇩🇪 Full Stack Entwicklerin spezialisiert auf das Odoo-Ökosystem (v15–v17+). Individuelle Module, Zahlungsintegrationen, E-Commerce und Prozessautomatisierung.
-
-<br/>
-
-![Role](https://img.shields.io/badge/Odoo_Developer-Appex_SRL-875A7B?style=flat-square)
-![Location](https://img.shields.io/badge/Santa_Cruz-Bolivia-1D9E75?style=flat-square)
-![Languages](https://img.shields.io/badge/ES_·_EN_·_DE_(B1)-7F77DD?style=flat-square)
+<img src="assets/meta.svg" width="760" alt="Odoo Developer en Appex SRL · Santa Cruz, Bolivia · ES, EN, DE (B1)" />
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+### Sobre mí
 
-**🎨 Frontend**
+Full Stack Developer con 3 años de experiencia en Python, C# y .NET, especializada en el ecosistema Odoo (v15–v19): módulos a medida, migraciones entre versiones, integraciones con otros sistemas (pasarelas de pago, APIs externas), e-commerce y automatización de procesos.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<details>
+<summary>English</summary>
+<br/>
+Full Stack Developer with 3 years of experience in Python, C#, and .NET, specialized in the Odoo ecosystem (v15–v19): custom modules, version migrations, integrations with external systems (payment gateways, third-party APIs), e-commerce, and process automation.
+</details>
 
-**⚙️ Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-**🚀 Platforms**
-
-![Odoo](https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**🗄️ Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-**☁️ Infrastructure**
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<details>
+<summary>Deutsch</summary>
+<br/>
+Full Stack Entwicklerin mit 3 Jahren Erfahrung in Python, C# und .NET, spezialisiert auf das Odoo-Ökosystem (v15–v19): individuelle Module, Versionsmigrationen, Integrationen mit externen Systemen (Zahlungsanbieter, externe APIs), E-Commerce und Prozessautomatisierung.
+</details>
 
 ---
 
-### 🤝 Connect
+### Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathaliaardaya/)
-[![Email](https://img.shields.io/badge/Email-D4537E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathaliascode@gmail.com)
+<img src="assets/stack-frontend.svg" width="499" alt="Frontend: HTML, CSS, JavaScript, React" />
+
+<img src="assets/stack-backend.svg" width="645" alt="Backend: Odoo, Python, C#, .NET, Node.js, Express" />
+
+<img src="assets/stack-bd.svg" width="493" alt="Bases de datos: PostgreSQL, SQL Server, MySQL" />
+
+<img src="assets/stack-herramientas.svg" width="688" alt="Herramientas: Git, GitHub, Docker, Linux, Postman, Cloudflare" />
+
+<img src="assets/stack-metodologias.svg" width="397" alt="Metodologías: Scrum, BPMN, UML" />
+
+---
+
+### Contribuciones
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-custom-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-custom-light.svg" />
+  <img alt="Contribuciones en 3D" src="profile-3d-contrib/profile-custom-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+### Contacto
+
+<div align="center">
+
+Escríbeme para proyectos de Odoo, integraciones o desarrollo en .NET.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/nathaliaardaya/"><img src="assets/btn-linkedin.svg" width="144" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:nathaliascode@gmail.com"><img src="assets/btn-email.svg" width="260" alt="nathaliascode@gmail.com" /></a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:875A7B&height=120&section=footer" />
