@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=875A7B&center=true&vCenter=true&width=650&lines=3+años+desarrollando+software;Custom+modules+y+migraciones+en+Odoo+v15+→+v19;Integraciones+de+pago,+APIs+y+otros+sistemas;Aplicaciones+con+Python,+C%23+y+.NET;E-commerce+y+automatización+de+procesos" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=875A7B&center=true&vCenter=true&width=650&lines=3+a%C3%B1os+desarrollando+software;Custom+modules+y+migraciones+en+Odoo+v15+%E2%86%92+v19;Integraciones+de+pago,+APIs+y+otros+sistemas;Aplicaciones+con+Python,+C%23+y+.NET;E-commerce+y+automatizaci%C3%B3n+de+procesos" />
 
 <br/><br/>
 
